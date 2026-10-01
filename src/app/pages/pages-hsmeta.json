@@ -1,0 +1,7 @@
+{
+  "uid": "dashboard_page_page",
+  "type": "page",
+  "config": {
+    "entrypoint": "/app/pages/Pages.tsx"
+  }
+}
